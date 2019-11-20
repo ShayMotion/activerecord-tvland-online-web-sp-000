@@ -6,3 +6,4 @@ class Network < ActiveRecord::Base
     "We're sorry about passing on John Mullaney's pilot"
   end
 end
+end
